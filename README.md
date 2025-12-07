@@ -3,7 +3,7 @@
 
 For each question, the model is asked to “think step by step” and end with
 Final Answer: <…>.
-This gives me the reasoning trace (internal), which I later clean up so only the final answer goes to the grader.
+This gives me the reasoning trace.
 
 2. Universal Self-Consistency (USC)
 
